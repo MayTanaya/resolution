@@ -3,3 +3,4 @@ May Tanaya Resolusi
 - Membuat pengelolaan video yang rapi
 - Membuat craft shop 
 - Join volunteer
+- Belajar c#
